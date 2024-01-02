@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Chaticon from '../../assets/Chaticon';
+ 
 import { RxBorderDotted } from "react-icons/rx";
 import { BsChat } from "react-icons/bs";
 
