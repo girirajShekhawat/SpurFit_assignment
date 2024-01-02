@@ -11,38 +11,38 @@ List any software or tools that need to be installed before setting up the proje
 
 - [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/) 
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/girirajShekhawat/SpurFit_assignment.git
-
-
-   
- 
-
  
  
-## Change into the project directory:
 
-cd  SpurFit_assignment
-## Install dependencies:
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone  https://github.com/girirajShekhawat/SpurFit_assignment.git
+
+```
+
+## Go to the project directory
+
+```bash
+  cd SpurFit_assignment
+```
+
+## Install dependencies
+
+```bash
+  npm install
+```
+
+## Start the server
+
+```bash
+  npm run dev
+```
+
 
  
-npm install
-## Development
- 
-
- 
-To start the development server, run the following command:<br>
-
- 
-npm run dev<br>
-This will launch the application at localhost
-
-Build and Deployment
 
 
 
