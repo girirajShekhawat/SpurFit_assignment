@@ -1,7 +1,7 @@
  
 import DetailsBarContainer from "./components/detailsBar/DetailsBarContainer"
-import Header from "./components/header/header"
-import Navbar from "./components/left_navbar/navbar"
+import Header from "./components/header/Header"
+import Navbar from "./components/left_navbar/Navbar"
 
 function App() {
    
