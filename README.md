@@ -1,8 +1,49 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+Provide instructions on setting up the project locally.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+List any software or tools that need to be installed before setting up the project.
+
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) 
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/girirajShekhawat/SpurFit_assignment.git
+
+
+   
+ 
+
+ 
+ 
+## Change into the project directory:
+
+cd  SpurFit_assignment
+## Install dependencies:
+
+ 
+npm install
+## Development
+ 
+
+ 
+To start the development server, run the following command:<br>
+
+ 
+npm run dev<br>
+This will launch the application at localhost
+
+Build and Deployment
+
+
+
+ 
