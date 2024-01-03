@@ -10,7 +10,7 @@ function App() {
       <div className=" flex bg-[#f8f8f8] min-h-screen">
         <Navbar/>
 
-        <div className="flex flex-col w-[1200px] box-border pr-5 flex-grow">
+        <div className="flex flex-col w-[1310px] box-border  flex-grow">
         <Header/>
         <DetailsBarContainer/>
         </div>
