@@ -27,7 +27,7 @@ function TraineenDetailsCard(props) {
 
 
 <div className='flex '>
-   <div className='flex items-center    w-[176px] h-[42px] py-[11px] px-[12px] mr-[10px] '>
+   <div className='flex  items-center    w-[170px] h-[42px] py-[11px] px-[1px] mr-[10px] '>
     <img src={item.img} className='h-[20px] w-[20px] rounded-full bg-contain bg-center mr-4' alt='img'/>
     
     <div className='w-[131px] text-[13px] font-[400px] leading-[20px] font-sans text-[#323130]'>
@@ -55,7 +55,7 @@ function TraineenDetailsCard(props) {
         {item.lastModifiedWorkout}
    </div>
 
-   <div className='flex items-center ml-[27px] h-[42px] w-[132px] px-[11px] '>
+   <div className='flex items-center ml-[27px] h-[42px] w-[132px] pl-[0px] pr-[11px]'>
    <div className='text-[12px] font-[400px] leading-[16px] font-sans text-[#09A033] mx-[1px] bg-[#e7f6eb] px-[5px] rounded-md'>
       { item.dietPlan}
         </div> 

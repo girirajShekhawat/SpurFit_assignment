@@ -16,8 +16,8 @@ const Details = () => {
           className="rounded-full ml-[15px] border-gray-400 focus:ring-violet-700 text-violet-600 border-2 focus:border-violet-700 focus:outline-none h-[14px] w-[14px]  "
           />
 
-          <div className='flex justify-evenly items-center  ml-[7px]'>
-            <div className='flex justify-start  items-center ml-[7px] h-[43px] w-[103px]  font-sans-serif font-[700px] text-[13px] text-[#333333] px-[12px] box-border leading-[20px]'>
+          <div className='flex   items-center  ml-[7px]'>
+            <div className='flex justify-start  items-center ml-[7px] h-[43px] w-[106px]  font-sans-serif font-[700px] text-[13px] text-[#333333] pl-[26px] pr-[17px] box-border leading-[20px]'>
                 Trainee
                 <FaArrowUpLong  className='ml-[4px] p-[2px] h-[40px]   text-slate-500'/>
             </div>
