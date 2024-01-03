@@ -6,7 +6,7 @@ import { IoSearch } from "react-icons/io5";
 
 function Header() {
     return (
-        <div className='flex justify-between h-[77px] w-[1310px] bg-[#ffffff]  rounded-b-[20px] shadow-md mx-[14px]  py-4  px-3  items-center box-border'>
+        <div className='flex justify-between h-[77px] w-[1360px] bg-[#ffffff]  rounded-b-[20px] shadow-md mx-[14px]  py-4  px-3  items-center box-border'>
             <div className='h-[29px] w-[62px]  mt-[24] ml-[33px] text-[22px] leading-[28.64px] font-[500px]   text-[#231f20] font-[DM Sans]'>Home</div>
 
             <div>

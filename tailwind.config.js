@@ -11,7 +11,7 @@ export default {
       buttonColorS:'#8330E9',
      },
      fontFamily: {
-      sans: ['DM Sans', 'sans-serif']
+      sans: ['DM Sans' ]
      }
     },
   },

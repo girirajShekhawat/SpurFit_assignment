@@ -27,7 +27,7 @@
     },  {
         id:3,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",
@@ -39,7 +39,7 @@
     },  {
         id:4,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",
@@ -51,7 +51,7 @@
     },  {
         id:5,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",
@@ -63,7 +63,7 @@
     },  {
         id:6,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",
@@ -75,7 +75,7 @@
     },  {
         id:7,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",
@@ -87,7 +87,7 @@
     },  {
         id:8,
         trainee:"Rahul",
-        img:"https://images.pexels.com/photos/2589650/pexels-photo-2589650.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?fit=1200%2C1200&ssl=1",
         compliance:"44.5%",
         lastWorkout:"Dec 10th' 23",
         workoutPlan:"Plan 2- Beginner",

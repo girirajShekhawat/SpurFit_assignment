@@ -9,7 +9,7 @@ function Navbar() {
     const libraryButtonLink='https://trainer.spur.fit/static/media/library.8d915c9c7c093aea943c12f1c90ea1de.svg';
     
     return (
-        <div className='h-[1000px] h-full flex flex-col justify-start relative w-[96px] bg-[#ffffff] box-border'>
+        <div className='h-[1000px]  flex flex-col justify-start relative w-[96px] bg-[#ffffff] box-border'>
         <div className=' w-full h-[77px]  flex justify-center items-center box-border    '>
             <img src='https://trainer.spur.fit/static/media/Spufit.f4bb521b87ec42bf87cfeae7eede32bb.svg' alt='Logo Img'
             className=' h-[40px] w-[40px]  rounded-full drop-shadow-lg'

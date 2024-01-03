@@ -4,7 +4,7 @@ import data from '../../assets/data'
 function TraineeList() {
     
     return (
-        <div className='bg-slate-400'>
+        <div className='overflow-y-auto'>
             <TraineenDetailsCard data={data}/>
         </div>
     );
