@@ -33,7 +33,7 @@ function Navbar() {
             </div>
         </div>
          
-        <div  className='mx-[35px] absolute bottom-4 '>
+        <div  className='mx-[35px] absolute bottom-8 '>
         <IoSettingsOutline  className='h-[26px] w-[26px] text-[#5a5758]' />
         </div>
         </div>

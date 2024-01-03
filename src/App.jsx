@@ -7,7 +7,7 @@ function App() {
    
   return (
    
-      <div className=" flex bg-slate-100 min-h-screen">
+      <div className=" flex bg-[#f8f8f8] min-h-screen">
         <Navbar/>
 
         <div className="flex flex-col w-[1200px] box-border pr-5 flex-grow">

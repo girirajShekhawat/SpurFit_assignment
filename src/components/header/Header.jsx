@@ -6,32 +6,32 @@ import { IoSearch } from "react-icons/io5";
 
 function Header() {
     return (
-        <div className='flex justify-between h-[77px] w-full bg-white rounded-lg mx-4 py-4 px-3  box-border'>
-            <h1 className='text-black text-2xl font-sans font-medium'>Home</h1>
+        <div className='flex justify-between h-[77px] w-full bg-white rounded-b-[20px] shadow-md mx-[14px]  py-4  px-3  items-center box-border'>
+            <div className='h-[29px] w-[62px]  mt-[24] ml-[33px] text-[22px] leading-[28.64px] font-[500px]   text-[#231f20] font-[DM Sans]'>Home</div>
 
             <div>
             <form>
-                <div className="flex items-center justify-between h-[40px] w-[381px] bg-[#E0E0E0] rounded-full p-2">
-                <IoSearch  />
+                <div className="flex items-center justify-between  ml-[300px] h-[39.06px] w-[381px] bg-gradient-to-r from-blue-100   to-violet-200  rounded-full p-2">
+                <IoSearch className='h-[18px] w-[18px] mt-[3px] mx-[3px] '/>
                 <input type='text' placeholder='Search anything'
-                className='outline-none w-full pl-2 bg-[#E0E0E0]'/>  
+                className='outline-none w-full h-[23px] opacity-50 pl-2 bg-gradient-to-r from-blue-100   to-violet-200  font-[100px] text-[20px]  leading-[20px] non-italic font-serif'/>  
                 </div>
             </form>
         </div>
 
-            <div className='flex justify-evenly w-[260px] items-center mr-3'>
+            <div className='flex justify-evenly w-[260px]  h-[44px] items-center mr-1'>
 
                 <div className='mx-3  '>
               {/* notification icon from react icon */}
-             <RiNotification2Line className='h-8 w-8'/>
+             <RiNotification2Line className=' h-[24px] w-[24px]'/>
                 </div>
 
-            <div className='flex inner-items justify-between px-3 py-2 h-[44px] w-[148px] min-w-[148px] bg-gradient-to-r from-[#464FEB] to-[#8330E9] rounded-full'>
+            <div className='flex inner-items justify-between  px-3 py-2 h-[44px] w-[148px] min-w-[148px] bg-gradient-to-r from-[#464FEB] to-[#8330E9] rounded-full shadow-md '>
                  <Chaticon />
-                 <button className='text-white text-lg py-0'>Ask Copilot</button> 
+                 <button className='text-white font-sans font-[100px] py-0'>Ask Copilot</button> 
             </div>
 
-            <img src='https://shorturl.at/ixQRZ' className='h-[44px] w-[44px] rounded-full bg-cover ml-3' alt='profile pic'/>
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRmexku4sWN6wxU4DDmyl_6F898jGFNniPw&usqp=CAU' className='h-[44px] w-[44px] rounded-full bg-cover ml-3' alt='profile pic'/>
             </div>
         </div>
     );

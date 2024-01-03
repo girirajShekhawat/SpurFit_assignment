@@ -8,7 +8,10 @@ export default {
     extend: {
      color:{
       buttonColorF:'#464FEB',
-      buttonColorS:'#8330E9'
+      buttonColorS:'#8330E9',
+     },
+     fontFamily: {
+      sans: ['DM Sans', 'sans-serif']
      }
     },
   },
