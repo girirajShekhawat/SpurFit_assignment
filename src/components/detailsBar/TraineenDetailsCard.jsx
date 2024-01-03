@@ -16,7 +16,7 @@ function TraineenDetailsCard(props) {
     <div> 
     <div className='flex justify-evenly bg-white h-[45px] items-center mt-[1px]' key={item.id} > 
 
-  <div className='flex   ml-[4px] h-[36px] h-[42px] py-[14px] px-[11px] '>
+  <div className='flex  w-[36px] h-[42px] py-[14px] px-[1px] '>
   <input
   type="radio"
   name="radioGroup"
