@@ -14,7 +14,7 @@ function TraineenDetailsCard(props) {
   {data.map( (item) => (
    <div className='flex flex-col'>
     <div> 
-    <div className='flex  bg-white h-[45px] items-center mt-[1px]' key={item.id} > 
+    <div className='flex justify-evenly bg-white h-[45px] items-center mt-[1px]' key={item.id} > 
 
   <div className='flex   ml-[4px] h-[36px] h-[42px] py-[14px] px-[11px] '>
   <input

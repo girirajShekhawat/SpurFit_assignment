@@ -8,7 +8,7 @@ const Details = () => {
         <div className='flex flex-col'>
 
         <div className='h-[1px]   border-solid border-[1px] border-[#E0E0E0] rounded-full   '></div>
-        <div className='flex  bg-[#f9f9f9] h-[45px] items-center box-border'>
+        <div className='flex justify-evenly bg-[#f9f9f9] h-[45px] items-center box-border'>
            
             <input
            type="radio"
