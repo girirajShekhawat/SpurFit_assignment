@@ -6,7 +6,7 @@ import { IoSearch } from "react-icons/io5";
 
 function Header() {
     return (
-        <div className='flex justify-between h-[77px] w-[1360px] bg-[#ffffff]  rounded-b-[20px] shadow-md mx-[14px]  py-4  px-3  items-center box-border'>
+        <div className='flex justify-between flex-row   h-[77px]  w-full  bg-[#ffffff]  rounded-b-[20px] shadow-md mx-[14px]  py-4  px-3  items-center box-border'>
             <div className='h-[29px] w-[62px]  mt-[24] ml-[33px] text-[22px] leading-[28.64px] font-[500px]   text-[#231f20] font-[DM Sans]'>Home</div>
 
             <div>
@@ -14,7 +14,7 @@ function Header() {
                 <div className="flex items-center justify-between  ml-[300px] h-[39.06px] w-[381px] bg-gradient-to-r from-blue-100   to-violet-200  rounded-full p-2">
                 <IoSearch className='h-[18px] w-[18px] mt-[3px] mx-[3px] '/>
                 <input type='text' placeholder='Search anything'
-                className='outline-none w-full h-[23px] opacity-50 pl-2 bg-gradient-to-r from-blue-100   to-violet-200  font-[100px] text-[20px]  leading-[20px] non-italic font-serif'/>  
+                className='outline-none w-full h-[23px] opacity-50 pl-2 bg-gradient-to-r from-blue-100   to-violet-200  font-[100px] text-[18px]  leading-[19px]   '/>  
                 </div>
             </form>
         </div>

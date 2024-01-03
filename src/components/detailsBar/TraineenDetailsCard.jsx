@@ -76,7 +76,7 @@ function TraineenDetailsCard(props) {
   
  </div>   
   </div>
-  <div className='h-[1px] w-[1356px] border-solid border-[1px] border-[#d6d4d2] rounded-full ml-[4px]  '></div>
+  <div className='h-[1px]   border-solid border-[1px] border-[#d6d4d2] rounded-full ml-[4px]  '></div>
   </div>
   ))}
 
