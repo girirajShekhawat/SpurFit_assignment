@@ -1,3 +1,12 @@
+## Live-link
+https://sparkling-entremet-6eef5d.netlify.app/
+
+# This projects shows the UI implementation of SpurFit webApp.
+
+## Tech-Stack Used
+ReactJs , React-hooks, Tailwind css 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
